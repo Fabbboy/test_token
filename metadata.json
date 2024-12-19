@@ -1,6 +1,6 @@
 {
   "name": "GiBB",
   "symbol": "GIBB",
-  "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "description": "GiBB is a MEME token for the vocational school gibb",
+  "image": "https://raw.githubusercontent.com/Fabbboy/test_token/refs/heads/master/image.png"
 }
